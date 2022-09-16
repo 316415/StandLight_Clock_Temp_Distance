@@ -1,0 +1,3 @@
+/home/ubuntu/project/StandLight_Clock_Temperature/build/CMakeFiles/StandLight_Clock_Temperature.dir
+/home/ubuntu/project/StandLight_Clock_Temperature/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/project/StandLight_Clock_Temperature/build/CMakeFiles/rebuild_cache.dir
